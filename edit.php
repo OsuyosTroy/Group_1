@@ -22,6 +22,7 @@ header("Location: index.php");
 }
 ?>
 
+
 <h2>Edit Student</h2>
 
 <form method="POST">
