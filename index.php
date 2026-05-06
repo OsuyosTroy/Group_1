@@ -181,5 +181,3 @@ $result = $conn->query("SELECT * FROM students");
 </body>
 
 </html>
-index.php
-Displaying index.php.
